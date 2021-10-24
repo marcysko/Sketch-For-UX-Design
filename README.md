@@ -9,13 +9,13 @@ Created a wireframe in Sketch using the shape, text, and graphics tools; built r
 ## Learning objectives
 * Navigating the canvas
 * Creating wireframes
-Working with shapes, text, images, and masks
-Managing layers
-Creating and nesting symbols
-Using the Vector tool
-Extending Sketch with design plugins
-Creating, sharing, and managing libraries
-Prototyping
-Collaborating with Sketch Cloud
-Exporting assets
-Creating style guides and design systems
+* Working with shapes, text, images, and masks
+* Managing layers
+* Creating and nesting symbols
+* Using the Vector tool
+* Extending Sketch with design plugins
+* Creating, sharing, and managing libraries
+* Prototyping
+* Collaborating with Sketch Cloud
+* Exporting assets
+* Creating style guides and design systems
