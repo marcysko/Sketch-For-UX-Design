@@ -1,0 +1,6 @@
+Colors / 1 Dark Green		#078522
+Colors / 2 Medium Green		#4CB963
+Colors / 3 Light Green		#96E072
+Colors / 4 Cream		#FFFDF7
+Colors / 5 Steel Gray		#5C6784
+Colors / 6 Cast Iron		#1D263B
